@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Users - Dashboard</title>
+    <title>Scholars - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="../admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -66,6 +66,12 @@
                 <a class="nav-link" href="mypreach.php">
                     <i class="fas fa-fw fa-user-alt"></i>
                     <span>My Preach</span></a>
+            </li>
+            <hr class="sidebar-divider">
+              <li class="nav-item">
+                <a class="nav-link" href="zamantakewa.php">
+                    <i class="fas fa-fw fa-user-alt"></i>
+                    <span>Zamantakew</span></a>
             </li>
              <hr class="sidebar-divider">
               <li class="nav-item">
