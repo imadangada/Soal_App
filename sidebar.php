@@ -117,11 +117,21 @@
                     <i class="fas fa-fw fa-comment-alt-plus"></i>
                     <span>Ask Question</span></a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="zamantakewa.php">
+                    <i class="fas fa-fw fa-comment-alt-plus"></i>
+                    <span>Zamantakewa</span></a>
+            </li>
 
              <li class="nav-item">
                 <a class="nav-link" href="myq.php">
                     <i class="fas fa-fw fa-comment-alt-smile"></i>
                     <span>Question You Ask</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="myq.php">
+                    <img src="assets/img/live.gif" width="20" height="20">
+                    <span>Sooal Radio Station</span></a>
             </li>
 
             <!-- Nav Item - Tables -->

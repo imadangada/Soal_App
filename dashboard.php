@@ -14,7 +14,7 @@ if (strlen($_SESSION['user_id'] == 0)) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Dashboard - soo'al</title>
+    <title>Radio - soo'al</title>
     <meta name="description" content="A platform that people can ask islamic question and get its answer from assigned ulamaa.">
     <link rel="icon" type="image/jpeg" sizes="undefinedxundefined" href="assets/img/logo.jpg">
     <link rel="icon" type="image/jpeg" sizes="undefinedxundefined" href="assets/img/slogo.jpg">
@@ -71,6 +71,10 @@ error:function (){}
      <?php include('topbar.php') ?>
 
                 <div class="container">
+                    <div style="margin: 7px;">
+                    <a href="radio.php"><button class="btn btn-outline-success"><img src="assets/img/live.gif" width="30" height="30"> To Soal Radio Station</button>
+                    </a>    
+                </div>
                   <h2 style="color: #074954; margin-top: 10px; position: left;" align="left">Preaches from different Ulama'a</h2>  
     <div class="row">                                
     <?php
